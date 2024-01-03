@@ -17,7 +17,7 @@ Once you're done with the installations, run the command `protostar -v` to confi
 ## Initializing a new project
 Protostar similar to Truffle for solidity development can be installed once and used for multiple projects.
 To initialize a new Protostar project, run the following command:
-```
+
 protostar init
 ```
 
