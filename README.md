@@ -1,5 +1,5 @@
 # Cairo
-Cairo is StarkNet's native language and the first Turing-complete language for scripting provable programs (where one party can prove to another that a certain computation was executed correctly) for general computations.
+Cairo is StarkNet's native language and the first Turing-complete language for scripting provable programs (where one party can prove to another that a certain computation was executed correctly) for general computations
 # StarkNet
 StarkNet is a decentralized ZK-rollup that operates as an Ethereum layer 2 chain. StarkNet enables Decentralized applications to achieve unlimited scale for their computation - without compromising Ethereum's decentralization and security, thereby solving the Scalability Trilemma.
 
