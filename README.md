@@ -5,7 +5,7 @@ StarkNet is a decentralized ZK-rollup that operates as an Ethereum layer 2 chain
 
 In this document, we are going to be going in-depth into understanding Cairo's syntax and how you could create and deploy a Cairo smart contract on StarkNet
 
-**NB: As at the time of this writing, StarkNet is still at v0.10.3, with Cairo 1.0 coming soon. The ecosystem is young and evolving very fast, so you might want to check the [official docs](https://www.cairo-lang.org/docs) to confirm this document is still up-to-date. Pull requests are welcome!**
+**NB: As at the time of this writing, StarkNet is still at v0.10.3, with Cairo 1.0 coming soon. The ecosystem is young and evolving very fast, so you might want to check the (https://www.cairo-lang.org/docs) to confirm this document is still up-to-date. Pull requests are welcome!**
 
 # Setting Up A Development Environment
 Before we get started writing codes, we will need to setup a Cairo development environment, for writing, compiling and deploying our contracts to StarkNet. 
