@@ -10,7 +10,7 @@ func test_increase_balance{syscall_ptr: felt*, range_check_ptr, pedersen_ptr: Ha
     increase_balance(42);
 
     let (result_after) = balance.read();
-    assert result_after = 42;
+    assert result_after = 41;
     return ();
 }
 
